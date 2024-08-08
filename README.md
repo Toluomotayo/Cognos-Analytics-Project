@@ -15,6 +15,9 @@ In this task, the Auto group data set was used to create various visualizations 
 + Quantity Sold by Model
 + Average Quantity Sold
 + Column chart for Profit per Dealer ID
+## Usage
++ Import the CustomerLoyaltyProgram.csv and Auto group data sets into Cognos Analytics.
++ Create dashboards and visualizations
 ## Contributor
 Tolulope Olarewaju
 ## Acknowledgement
